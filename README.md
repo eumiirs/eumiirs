@@ -4,9 +4,8 @@
 - 💞️ I’m looking to collaborate on learn more and more ...
 - 📫 How to reach me only here...
 - ⚡ Fun fact: like dance...
-imag
-<img scr=".https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithubuniverse.com%2F&psig=AOvVaw2bhBRQe6S7fSQCpyrFqLX-&ust=1755905615803000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLjV7KaInY8DFQAAAAAdAAAAABAR>
-<!---
+
+
 eumiirs/eumiirs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
